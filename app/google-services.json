@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620187667623",
+    "firebase_url": "https://loginappdemo-22ae9.firebaseio.com",
+    "project_id": "loginappdemo-22ae9",
+    "storage_bucket": "loginappdemo-22ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620187667623:android:10903ebfec4fbf00",
+        "android_client_info": {
+          "package_name": "com.example.akazad.farebasesignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620187667623-75lc2es3eel7c9e6dgp5e6sdlnbg5t3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akazad.farebasesignup",
+            "certificate_hash": "b36c3866b6ebcec3780cbeab442efa0d3ba0d55b"
+          }
+        },
+        {
+          "client_id": "620187667623-cjqp26jpvp0ik1gamk5cavlqv00krcr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChVSgVxs_eTqlWjYNU1F9h-mYDBJfQRV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620187667623-cjqp26jpvp0ik1gamk5cavlqv00krcr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
